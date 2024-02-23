@@ -1,0 +1,2 @@
+# android_webview
+Android部分的 WebView容器代码可独立成一个代码库单独维护，并打包成aar给主工程引用。
